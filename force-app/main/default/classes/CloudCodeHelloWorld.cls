@@ -3,7 +3,7 @@ public with sharing class CloudCodeHelloWorld {
 
     }
     public static void printHelloWorld(String name) {
-        System.debug('Hi ' + name);
+        System.debug('Hiya ' + name);
     }
     
 }
